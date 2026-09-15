@@ -114,7 +114,17 @@ The Power BI dashboard contains two analytical pages.
 - CFO Key Insights
 
 ---
+## 📸 Dashboard Preview
 
+### Executive Overview
+
+![Executive Overview](Screenshot%202026-09-15%20223117.png)
+
+### Budget & Profitability Analysis
+
+![Budget & Profitability Analysis](Screenshot%202026-09-15%20222536.png)
+
+---
 ## 🧮 SQL Analysis
 
 SQL was used to independently analyze the financial dataset and validate key business findings.
